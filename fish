@@ -7,6 +7,9 @@
 #     sudo apt install libcurses-perl
 #     sudo cpan install Term::Animation
 #
+#      ####Arch####
+#     yay -S perl-term-animation perl-curses
+#
 # Special thanks to @UndeadLeech for adding the transparency. This is
 # the *only* fish/asciiquarium without the default black background.
 #
